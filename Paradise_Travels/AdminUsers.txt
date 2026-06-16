@@ -1,0 +1,8 @@
+Amio;Tahsin;11-12-2002;01309877544;amiotahsin2020@gmail.com;123456789;1420
+Samiul ;Islam;11-12-2002;01721104949;samiulislam@gmail.com;11-12-2002;1111
+AL;Nahian;11-12-2003;01721104949;nahian@gmail.com;123456789;1111
+Argho;Ghosh;11--12-2001;01309877564;aegho@gmail.com;123456789;1234
+Fatin;Nahian;1-2-2003;01309875445;@.gmail;aaa;1212
+fatin;nahian;2/3;01234567890;@gmail.com;56567;fatin
+a;a;1.2.3;12345678900;a@gmail.com;12;a
+fatin1;fatin1;;12345678900;fatin@gmail.com;;
